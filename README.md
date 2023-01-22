@@ -1,2 +1,0 @@
-# MifikGame
-Hello Stas
